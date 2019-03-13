@@ -3,6 +3,7 @@
 
 <head>
   <title>Our Company</title>
+  <link rel="stylesheet" href="myweb.css">
 </head>
 
 <body>
